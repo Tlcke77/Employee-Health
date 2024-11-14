@@ -14,7 +14,7 @@ This is a data-driven analysis of an HR dataset focused on absenteeism and emplo
   - Total Budget of $1000
 - Calculate a Wage Increase or annual compensation for Non-Smokers
   - Increase budget of $983,221 for all Non_Smokers
-- Sovle other questions based on Individuals health and Absenteeism.
+- Solve other questions based on Individuals health and Absenteeism.
 - Create a Dashboard to understand Absenteeism at work.
 
 ## Questions and Solutions
@@ -183,6 +183,6 @@ GROUP BY
 
 ## Dashboard
 
-- Overview: This dashboard provides insights into employee absenteeism.
+- Overview: This dashboard provides insights into employee absenteeism data.
 
 <img src="https://github.com/Tlcke77/pics/blob/main/1731562881358-f3403f3a-42c5-4a64-9e37-eb4531c9367e_1.jpg" alt="Image" width="800" height="520">
