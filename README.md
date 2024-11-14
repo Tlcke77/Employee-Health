@@ -180,3 +180,9 @@ GROUP BY
 | 1      |    6.5000        |
       
 ***
+
+## Dashboard
+
+- Overview: This dashboard provides insights into employee absenteeism.
+
+<img src="https://github.com/Tlcke77/pics/blob/main/1731562881358-f3403f3a-42c5-4a64-9e37-eb4531c9367e_1.jpg" alt="Image" width="800" height="520">
